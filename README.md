@@ -1,5 +1,6 @@
 # Inducter_tx
 Project involved with designing transmitter for wireless power transfer circuit.
+The input voltage is 12V DC, resonant frequency is set to 90kHz however it's possible to change it by switching values of RC circuit in CD4047.  
 
 <img width="1719" height="941" alt="image" src="https://github.com/user-attachments/assets/6ad5e155-f5f9-4986-89e3-0664b2329504" />
 
